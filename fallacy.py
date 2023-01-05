@@ -62,4 +62,4 @@ class MyClient(discord.Client):
 
 client = MyClient(intents=discord.Intents.all())
 
-client.run('MTA1OTk0NTQwMjA3MTI1NzExOA.G0efrw.aSfiP43HUn4AUOjwvZ5J5r316WAufAfupv7wTQ')
+client.run('MTA1OTk0NTQwMjA3MTI1NzExOA.GyP_F3.CKR5apmP_a13L9BtRlj5trRT1Pcn9i-5QVJsKg')
